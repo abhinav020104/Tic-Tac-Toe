@@ -11,6 +11,10 @@
     background-image: url(./assets/gradient-bg.jpg);
     display: grid;
     place-items: center;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-size: cover;
+    background-position: center;
 }
 
 .game-info{
